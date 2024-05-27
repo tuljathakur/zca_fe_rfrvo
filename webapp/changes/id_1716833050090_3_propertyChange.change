@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1716833050090_3_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "com.sap.chs.zcaferfrvo",
+    "packageName": "",
+    "content": {
+        "property": "showClearOnFB",
+        "newValue": true
+    },
+    "selector": {
+        "id": "com.sap.chs.zcaferfrvo::sap.suite.ui.generic.template.ListReport.view.ListReport::getRVO--listReportFilter",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smartfilterbar.SmartFilterBar"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/com.sap.chs.zcaferfrvo/changes/",
+    "projectId": "",
+    "creation": 1716833050090,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.124.0",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
